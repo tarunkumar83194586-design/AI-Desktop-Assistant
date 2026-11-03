@@ -1,0 +1,4 @@
+pytest
+# (Tkinter is part of the Python standard library, no external package needed)
+# jsonschema is optional for config validation, uncomment if used
+# jsonschema
